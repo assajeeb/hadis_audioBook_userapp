@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "37108501157",
+    "project_id": "audiobook-258bf",
+    "storage_bucket": "audiobook-258bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37108501157:android:7156e0a56f6cab4f485b4c",
+        "android_client_info": {
+          "package_name": "com.example.hadith_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp2lC2qHVljTEWG-hiKMRfV_5-RMwzp38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
